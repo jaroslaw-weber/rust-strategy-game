@@ -1,0 +1,6 @@
+[package]
+name = "rusteu"
+version = "0.1.0"
+authors = ["Jaroslaw Weber <jaroslaw.weber@gmail.com>"]
+
+[dependencies]
