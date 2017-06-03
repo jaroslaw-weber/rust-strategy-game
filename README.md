@@ -1,2 +1,2 @@
-# rust-strategy-game
-Strategy game prototype in Rust (only very basic functionaly is implemented, not finished)
+# Command line strategy game prototype in Rust
+Currently only few basic commands working, used this project to get familiar with Rust.
